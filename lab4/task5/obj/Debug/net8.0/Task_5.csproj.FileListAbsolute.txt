@@ -1,0 +1,28 @@
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/bin/Debug/net8.0/Task_5.exe
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/bin/Debug/net8.0/Task_5.deps.json
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/bin/Debug/net8.0/Task_5.runtimeconfig.json
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/bin/Debug/net8.0/Task_5.dll
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/bin/Debug/net8.0/Task_5.pdb
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/Task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/Task_5.AssemblyInfoInputs.cache
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/Task_5.AssemblyInfo.cs
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/Task_5.csproj.CoreCompileInputs.cache
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/Task_5.dll
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/refint/Task_5.dll
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/Task_5.pdb
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/Task_5.genruntimeconfig.cache
+C:/Users/User/OneDrive/Рабочий стол/уроки/KPZ/Lab4/Task_5/obj/Debug/net8.0/ref/Task_5.dll
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/bin/Debug/net8.0/Task_5
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/bin/Debug/net8.0/Task_5.deps.json
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/bin/Debug/net8.0/Task_5.runtimeconfig.json
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/bin/Debug/net8.0/Task_5.dll
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/bin/Debug/net8.0/Task_5.pdb
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/Task_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/Task_5.AssemblyInfoInputs.cache
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/Task_5.AssemblyInfo.cs
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/Task_5.csproj.CoreCompileInputs.cache
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/Task_5.dll
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/refint/Task_5.dll
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/Task_5.pdb
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/Task_5.genruntimeconfig.cache
+/Users/avto_mat/Documents/labs/kpz/lab4/task5/obj/Debug/net8.0/ref/Task_5.dll

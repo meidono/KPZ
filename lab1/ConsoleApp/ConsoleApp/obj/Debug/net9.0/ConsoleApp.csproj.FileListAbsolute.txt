@@ -1,0 +1,14 @@
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/avto_mat/Documents/labs/kpz/lab1/ConsoleApp/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll

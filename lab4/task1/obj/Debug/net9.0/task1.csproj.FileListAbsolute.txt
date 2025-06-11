@@ -1,0 +1,14 @@
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/bin/Debug/net9.0/task1
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/bin/Debug/net9.0/task1.deps.json
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/bin/Debug/net9.0/task1.runtimeconfig.json
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/bin/Debug/net9.0/task1.dll
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/bin/Debug/net9.0/task1.pdb
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/task1.AssemblyInfoInputs.cache
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/task1.AssemblyInfo.cs
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/task1.csproj.CoreCompileInputs.cache
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/task1.dll
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/refint/task1.dll
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/task1.pdb
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/task1.genruntimeconfig.cache
+/Users/avto_mat/Documents/labs/kpz/lab4/task1/obj/Debug/net9.0/ref/task1.dll
